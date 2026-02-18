@@ -1,0 +1,7 @@
+C:\Users\dev\source\repos\CSharpEncStager\CSharpEncStager\bin\x64\Release\CSharpEncStager.exe.config
+C:\Users\dev\source\repos\CSharpEncStager\CSharpEncStager\bin\x64\Release\CSharpEncStager.exe
+C:\Users\dev\source\repos\CSharpEncStager\CSharpEncStager\bin\x64\Release\CSharpEncStager.pdb
+C:\Users\dev\source\repos\CSharpEncStager\CSharpEncStager\obj\x64\Release\CSharpEncStager.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\CSharpEncStager\CSharpEncStager\obj\x64\Release\CSharpEncStager.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\CSharpEncStager\CSharpEncStager\obj\x64\Release\CSharpEncStager.exe
+C:\Users\dev\source\repos\CSharpEncStager\CSharpEncStager\obj\x64\Release\CSharpEncStager.pdb

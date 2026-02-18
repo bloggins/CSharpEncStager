@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="CSharpEncStager/CSharpEncStager.csproj" Id="ce3e0935-fd9b-4a2c-b679-e664438395af">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
