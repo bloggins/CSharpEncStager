@@ -18,11 +18,7 @@ public class Program
 
     [DllImport("kernel32")]
     private static extern UInt32 WaitForSingleObject(IntPtr hHandle, UInt32 dwMilliseconds);
-
-    [DllImport("kernel32.dll")] static extern void Sleep(uint dwMilliseconds);
-
    
-
     private static UInt32 MEM_COMMIT = 0x1000;
     private static UInt32 PAGE_EXECUTE_READWRITE = 0x40;
 
@@ -86,4 +82,5 @@ public class Program
         }
     }
 }
+
 
